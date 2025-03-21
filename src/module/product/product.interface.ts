@@ -15,6 +15,7 @@ export interface IProduct {
   category:
     | 'Electronics'
     | 'Furniture'
+    | 'Fashion'
     | 'Books & Stationery'
     | 'Toys & Games'
     | 'Home Decor'

@@ -44,6 +44,7 @@ const productSchema = new Schema(
         values: [
           'Electronics',
           'Furniture',
+          'Fashion',
           'Books & Stationery',
           'Toys & Games',
           'Home Decor',
